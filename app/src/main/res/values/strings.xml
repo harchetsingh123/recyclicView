@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RecyclingViewApp</string>
+    <string name="Image_View">This is the view of an image </string>
+    <string name="Text_View">This is the view of some text</string>
+    <string name="View">This is the view</string>
+</resources>
